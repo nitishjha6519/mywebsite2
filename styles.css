@@ -169,7 +169,17 @@ justify-content: center;
         }
 
         @media(max-width: 768px){
+		
+                        #newsletter input[type="email"]{
+        		margin-bottom: 5px;
 
+                  }
+
+        	button{
+        		margin:  auto;
+        		display: block;
+        		
+        	}    
         	header h2,
         	header nav,
         	#newsletter p,
